@@ -1,0 +1,6 @@
+Hello, Hello world.
+wassupp
+Its a beautiful day
+This is line 4 added in append mode.
+Another line with some more content.
+Appending the final line.
